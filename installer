@@ -74,7 +74,7 @@ echo -e "                $GREEN
  
  echo -e "                $RED
            
-		   Ubunto SETUP by Dolor Antukab
+		   Ubunto SETUP by Divergent - VPN
 $RESET"
 }
 services () {
